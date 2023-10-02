@@ -55,23 +55,12 @@
 ![image](https://github.com/smakkkkk/DA-in-GameDev-lab2/assets/129764703/dbaa85c0-b82f-4ed9-83bc-104ce5130075)
 ![image](https://github.com/smakkkkk/DA-in-GameDev-lab2/assets/129764703/6ce676d5-077f-409a-8797-3b81edbe99db)
 
--
-
 ## Задание 3
 ### Настройте на сцене Unity воспроизведение звуковых файлов, описывающих динамику изменения выбранной переменной. Например, если выбрано здоровье главного персонажа вы можете выводить сообщения, связанные с его состоянием.
+- ![image](https://github.com/smakkkkk/DA-in-GameDev-lab2/assets/129764703/0da2db69-69e8-4cbc-a3d3-8911cad46e9b)
+
 
 
 ## Выводы
 
 В ходе лабораторной работы я научился передавать в Unity данные из Google Sheets с помощью Python.
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-
-## Powered by
